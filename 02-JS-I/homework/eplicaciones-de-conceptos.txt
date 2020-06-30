@@ -1,0 +1,16 @@
+Concepto de variable:
+    es asignarle un nuevo nombre a lo que quieras, ejemplo si yo tengo un perro y quiero llamarlo "Roque" cada vez que lo llame no dire perro dire "Roque"
+
+    perro = Roque
+
+Concepto de Strings :
+    Los Strings son palabras y siempre va en comillas "", por ejemplo "Roque" es un Strings
+
+Concepto de Funciones:
+    Es un conjunto de lo que queremos saber de algo, y un Argumentos es lo que yo quiero saber adentro de esa funcion, y return es lo que me va a devolver.
+
+Concepto de IF:
+    Es comprobar si algo es verdadero, igual o falso de lo que pedi adentro de una funcion.
+
+
+    
