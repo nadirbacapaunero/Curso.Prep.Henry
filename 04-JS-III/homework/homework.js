@@ -3,6 +3,8 @@
 function devolverPrimerElemento(array) {
   // Devuelve el primer elemento de un array
   // Tu código:
+  array[0];
+  
 }
 
 function devolverUltimoElemento(array) {
